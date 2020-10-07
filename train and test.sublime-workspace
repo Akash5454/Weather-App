@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"delete_info"
+			],
+			[
+				"sea",
+				"search_btn"
+			],
+			[
+				"wea",
+				"weather_label"
+			],
+			[
+				"im",
+				"image_label"
+			],
+			[
+				"weather",
+				"weather_label"
+			],
+			[
+				"temp",
+				"temp_label"
+			],
+			[
+				"b",
+				"bitmap"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"cit",
+				"city_text"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"te",
+				"temp_cels"
+			],
+			[
+				"w",
+				"weather"
+			],
+			[
+				"get",
+				"get_weather"
+			],
+			[
+				"searc",
+				"Search"
+			],
+			[
+				"compare_",
+				"compare_images"
+			],
+			[
+				"fake",
+				"fake_email"
+			],
+			[
+				"f",
+				"fake_first_name"
+			],
+			[
+				"popu",
+				"populate"
+			],
+			[
+				"fa",
+				"fakegen"
+			],
+			[
+				"T",
+				"TEMPLATES_DIR"
+			],
+			[
+				"he",
+				"help_me"
+			],
+			[
+				"Te",
+				"TEMPLATES_DIR"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"u",
+				"URLconf"
+			],
+			[
+				"fi",
+				"first_app"
+			],
+			[
+				"r",
+				"randint"
+			],
+			[
+				"cen",
+				"align-content\tproperty"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"Fa",
+				"FamilySize"
+			],
+			[
+				"S",
+				"Sex"
+			],
+			[
+				"sl",
+				"sleep_duration"
+			],
+			[
+				"ani",
+				"animation-delay\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"ba",
+				"background-attachment\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"alarmT",
+				"alarmTime"
+			],
+			[
+				"alar",
+				"alarmTime"
+			],
+			[
+				"g",
+				"getTime"
+			],
+			[
+				"al",
+				"alarmTime"
+			],
+			[
+				"ala",
+				"alarmTime"
+			],
+			[
+				"di",
+				"diffInMs"
+			],
+			[
+				"stop",
+				"stopAlarm"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"a",
+				"alarmOptions"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ge",
+				"getTime"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"ma",
+				"mainOverlay"
+			],
+			[
+				"main",
+				"mainTrigger"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"js",
+				"js-main-overlay"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"su",
+				"sub-title"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"sc",
+				"scrollFromTop"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"dat",
+				"date_dict"
+			],
+			[
+				"po",
+				"populate"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"to",
+				"Todo"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"nu",
+				"numOfSquares"
+			],
+			[
+				"n",
+				"numOfSquares"
+			],
+			[
+				"q",
+				"querySelectorAll"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"cli",
+				"clickedColor"
+			],
+			[
+				"m",
+				"messegeDisplay"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"res",
+				"resetFunc"
+			],
+			[
+				"p2",
+				"p2score"
+			],
+			[
+				"p1",
+				"p1display"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"F",
+				"false"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"yo",
+				"you"
+			],
+			[
+				"text-",
+				"text-shadow\tproperty"
+			],
+			[
+				"borde",
+				"border-top\tproperty"
+			],
+			[
+				"na",
+				"navbar-right"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"nam",
+				"Name"
+			],
+			[
+				"Fi",
+				"file"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"border-do",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"A",
+				"agree"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "weather_app.py",
+			"settings":
+			{
+				"buffer_size": 2001,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/akash/Desktop/weather app"
+	],
+	"file_history":
+	[
+		"/C/Users/akash/Desktop/weather_app",
+		"/C/Users/akash/Project/for_dataset.py",
+		"/C/Users/akash/Desktop/sol1.py",
+		"/C/Users/akash/Downloads/Robotic Image Classification.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/second_app/models.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/ProTwo/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/second_app/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/second_app/admin.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/populate.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/templates/second_app/help.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/templates/second_app/index.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/second_app/views.py",
+		"/C/Users/akash/Cancer Detection/create_folds.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/static/css/mystyles.css",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/templates/first_app/index.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_app/views.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/pop.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_app/admin.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_app/models.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_app/pop.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/level2/first_app/views.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/level2/templates/first_app/index.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/level2/level2/settings.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/level2/first_app/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/level2/level2/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_project/settings.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/ProTwo/settings.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/ProTwo/templates/second_app/help.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/ProTwo/templates/second_app/index.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/ProTwo/wsgi.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_app/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/first_project/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/templates/index.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/Two/views.py",
+		"/C/Users/akash/OSI Project/static/css/style.css",
+		"/C/Users/akash/OSI Project/templates/index.html",
+		"/C/Users/akash/OSI Project/app.py",
+		"/C/Users/akash/OSI Project/request.py",
+		"/C/Users/akash/OSI Project/index.html",
+		"/C/Users/akash/OSI Project/style.css",
+		"/C/Users/akash/OneDrive/Desktop/telegram.py",
+		"/C/Users/akash/OneDrive/Desktop/adduser.py",
+		"/C/Users/akash/OneDrive/Desktop/flixtv.csv",
+		"/C/Users/akash/OneDrive/Desktop/acetv1.csv",
+		"/C/Users/akash/OneDrive/Desktop/webd/validate.html",
+		"/C/Users/akash/Project/train.py",
+		"/C/Users/akash/Project/test.py",
+		"/C/Users/akash/Project/play.py",
+		"/C/Users/akash/OneDrive/Desktop/cd.c",
+		"/C/Users/akash/Downloads/covid-tracker/index.html",
+		"/C/Users/akash/Downloads/covid-tracker/data.html",
+		"/C/Users/akash/Downloads/covid-tracker/map.html",
+		"/C/Users/akash/Downloads/Internship task project/index.html",
+		"/C/Users/akash/Downloads/Internship task project/styles.css",
+		"/C/Users/akash/titanic web app/app.py",
+		"/C/Users/akash/titanic web app/templates/index.html",
+		"/C/Users/akash/titanic web app/module.py",
+		"/C/Users/akash/titanic web app/index.html",
+		"/C/Users/akash/Kaggle titanic .py",
+		"/C/Users/akash/testing.py",
+		"/C/Users/akash/style.css",
+		"/C/Users/akash/index.html",
+		"/C/Users/akash/app.py",
+		"/C/Users/akash/Downloads/Kaggle titanic  .py",
+		"/D/HP Laptop Backup/Complete Python Bootcamp Go from zero to hero in Python 3/Sublime Text 3/IBM Deploy.py",
+		"/D/HP Laptop Backup/Complete Python Bootcamp Go from zero to hero in Python 3/Sublime Text 3/IBM Plate detector.py",
+		"/D/HP Laptop Backup/Complete Python Bootcamp Go from zero to hero in Python 3/Sublime Text 3/IBM Opencv.py",
+		"/D/HP Laptop Backup/Complete Python Bootcamp Go from zero to hero in Python 3/Sublime Text 3/IBM Watson",
+		"/D/HP Laptop Backup/Complete Python Bootcamp Go from zero to hero in Python 3/Sublime Text 3/IBM Watson Custom.py",
+		"/C/Users/akash/OneDrive/Desktop/sih.py",
+		"/C/Users/akash/OneDrive/Desktop/test2.py",
+		"/C/Users/akash/Downloads/test.py",
+		"/C/Users/akash/Downloads/position_hold_gazebo_boilerplate_36cell (2).py",
+		"/C/Users/akash/Downloads/position_hold_gazebo_boilerplate_36cell.py",
+		"/C/Users/akash/OneDrive/Desktop/webd/bigbang.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/scorekeeperproject.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/scorekeeperproject.css",
+		"/C/Users/akash/OneDrive/Desktop/webd/scorekeeperproject.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/webcam_access.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/particle.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/New.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/Alarm Clock.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/7 projects/portfolio.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/7 projects/portfolio.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/7 projects/portfolio.css",
+		"/C/Users/akash/Downloads/like.svg",
+		"/C/Users/akash/Downloads/in-love.svg",
+		"/C/Users/akash/OneDrive/Desktop/webd/grid.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/grid.css",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/static/css/style.css",
+		"/C/Users/akash/Desktop/My_Django_Stuff/first_project/populate_first_app.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/appTwo/urls.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/appTwo/views.py",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/templates/appTwo/help.html",
+		"/C/Users/akash/Desktop/My_Django_Stuff/ProTwo/appTwo/templates/help.html",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/User/t.py",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/akash/OneDrive/Desktop/django_project/temp.py",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/akash/OneDrive/Desktop/webd/spectrum.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/MyPatatapVersion/circles.css",
+		"/C/Users/akash/OneDrive/Desktop/webd/MyPatatapVersion/circles.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/index.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/assets/js/todos.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/assets/css/todos.css",
+		"/C/Users/akash/OneDrive/Desktop/webd/jQuery.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/assets/js/lib/jQuery.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/Todo.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/Todo.css",
+		"/C/Users/akash/OneDrive/Desktop/webd/Todo List/Todo.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/jQuery.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/Colour guessing game/colorgame.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/Colour guessing game/colorgame.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/Colour guessing game/colorgame.css",
+		"/D/The Web Developer Bootcamp/15 Color Game Project/167 Color-Game-Solution.zip",
+		"/C/Users/akash/OneDrive/Desktop/webd/domManipulation.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/domManipulation.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/function-problemset.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/function-problemset.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/jsdemo.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/jsdemo.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/LandingPage.css",
+		"/C/Users/akash/OneDrive/Desktop/webd/LandingPage.html",
+		"/C/Users/akash/OneDrive/Desktop/webd/intern/css/style.css",
+		"/C/Users/akash/OneDrive/Desktop/webd/intern/js/main.js",
+		"/C/Users/akash/OneDrive/Desktop/webd/intern/index.html",
+		"/C/Users/akash/Downloads/NewBiz.zip"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"destroy",
+			"search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "weather_app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1363,
+								1363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 536.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "09d@2x.png",
+					"semi_transient": true,
+					"stack_index": 1,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "train and test.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
